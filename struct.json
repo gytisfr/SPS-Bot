@@ -1,0 +1,72 @@
+{
+    "cases": {
+        "caseNum": {
+            "information": {
+                "complainant": {
+                    "discord": {
+                        "username": "abc",
+                        "id": 123
+                    },
+                    "roblox": {
+                        "username": "abc",
+                        "id": 123
+                    }
+                },
+                "employee": {
+                    "discord": {
+                        "username": "abc",
+                        "id": 123
+                    },
+                    "roblox": {
+                        "username": "abc",
+                        "id": 123
+                    }
+                },
+                "what": "abc",
+                "evidence": "abc",
+                "when": "abc",
+                "extra": "abc",
+                "investigator": {
+                    "discord": {
+                        "username": "abc",
+                        "id": 123
+                    },
+                    "roblox": {
+                        "username": "abc",
+                        "id": 123
+                    }
+                },
+                "employeeSupervisor": {
+                    "discord": {
+                        "username": "abc",
+                        "id": 123
+                    },
+                    "roblox": {
+                        "username": "abc",
+                        "id": 123
+                    }
+                }
+            },
+            "processes": {
+                "contacts": {
+                    "complainant": 0,
+                    "supervisor": 0,
+                    "employee": 0,
+                    "witnesses": 0
+                },
+                "investigation": {
+                    "actionRecommended": 0,
+                    "papework": 0
+                },
+                "conclusion": {
+                    "supervisorApproval": 0,
+                    "disciplineEnforced": 0
+                }
+            },
+            "notification": "",
+            "closed": 0
+        }
+    },
+    "applications": {
+    }
+}
